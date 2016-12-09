@@ -1,3 +1,3 @@
 <?php
 	echo "string";
-	echo "abcdef";
+	echo "abcdefg";
